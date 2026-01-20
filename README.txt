@@ -40,6 +40,7 @@ This project is a **Drowsiness Detection System** that uses facial landmark dete
   ```
 
 ### 3. Install Required Libraries
+(https://github.com/datamagic2020/Install-dlib.git) Try getting from here
 - Navigate to the `Dlib_Windows_Python3.x-main` folder:
   ```bash
   cd Dlib_Windows_Python3.x-main
@@ -59,3 +60,4 @@ This project is a **Drowsiness Detection System** that uses facial landmark dete
   python project.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm-original.wav
   ```
 This includes the necessary steps for creating a Conda environment with Python 3.10 on systems that have Python 3.11.12 installed.
+
